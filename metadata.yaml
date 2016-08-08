@@ -1,0 +1,35 @@
+_repo: Ab-lard-Tome-I_12829
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rémusat, Charles de
+    aliases:
+    - Rémusat, Charles-François-Marie, comte de
+    - Remusat, Charles de
+    - De Rémusat, Charles
+    - Remusat, Charles-Francois-Marie, comte de
+    birthdate: 1797
+    deathdate: 1875
+    gutenberg_agent_id: '4652'
+    url: http://www.gutenberg.org/2009/agents/4652
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Charles_de_R%C3%A9musat
+    - http://fr.wikipedia.org/wiki/Charles_de_R%C3%A9musat
+description: ''
+gutenberg_bookshelf:
+- FR Philosophie, Religion et Morale
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2004-07-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12829'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abelard, Peter, 1079-1142'
+- !lcc 'BX'
+- GITenberg
+title: Abélard, Tome I
+url: http://www.gutenberg.org/ebooks/12829
