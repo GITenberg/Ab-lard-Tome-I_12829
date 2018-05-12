@@ -1,5 +1,8 @@
 _repo: Ab-lard-Tome-I_12829
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Rémusat, Charles de
@@ -16,6 +19,8 @@ creator:
     - http://en.wikipedia.org/wiki/Charles_de_R%C3%A9musat
     - http://fr.wikipedia.org/wiki/Charles_de_R%C3%A9musat
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12829#Ab-lard-Tome-I
 gutenberg_bookshelf:
 - FR Philosophie, Religion et Morale
 - FR Biographie, Mémoires, Journal intime, Correspondance
